@@ -11,6 +11,7 @@
 		021FDD4E29CD851400048AE2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021FDD4D29CD851400048AE2 /* ContentView.swift */; };
 		021FDD5029CD851600048AE2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 021FDD4F29CD851600048AE2 /* Assets.xcassets */; };
 		021FDD5329CD851600048AE2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 021FDD5229CD851600048AE2 /* Preview Assets.xcassets */; };
+		021FDD5A29CD897B00048AE2 /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 021FDD5929CD897B00048AE2 /* ModalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		021FDD4D29CD851400048AE2 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		021FDD4F29CD851600048AE2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		021FDD5229CD851600048AE2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		021FDD5929CD897B00048AE2 /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				021FDD4B29CD851400048AE2 /* GitTraining1SwiftUIApp.swift */,
 				021FDD4D29CD851400048AE2 /* ContentView.swift */,
+				021FDD5929CD897B00048AE2 /* ModalView.swift */,
 				021FDD4F29CD851600048AE2 /* Assets.xcassets */,
 				021FDD5129CD851600048AE2 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				021FDD5A29CD897B00048AE2 /* ModalView.swift in Sources */,
 				021FDD4E29CD851400048AE2 /* ContentView.swift in Sources */,
 				021FDD4C29CD851400048AE2 /* GitTraining1SwiftUIApp.swift in Sources */,
 			);
